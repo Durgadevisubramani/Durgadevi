@@ -1,1 +1,1 @@
-package com.tnsif.jdbcdemo;
+package com.tns.junit.testing;
